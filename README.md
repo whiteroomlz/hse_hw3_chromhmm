@@ -23,6 +23,21 @@
 ![image4](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_RefSeqTES_neighborhood.png)
 ![image5](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_RefSeqTSS_neighborhood.png)
 ## UCSC GenomeBrowser
+Nikita Borodin, [05.04.2023 19:13]
+### Таблица
+|Состояние|Название|Анализ|
+|-|-|-|
+|1|Heterochromatin|Характерен для H3K9me3 и H3K27me3 (в наибольшей мере H3K27me3); не попадает на ген; чаще всего располагается на laminB1lads, т.е. на участке репрессированного гетерохроматима.|
+|2|Heterochromatin|Характерен только для H3K9me3; не попадает на ген; чаще всего располагается на laminB1lads, т.е. на участке репрессированного гетерохроматима.|
+|3|Heterochromatin|Характерен для H3K9me3, реже встречается на H3K36me3; не попадает на ген; чаще всего располагается на laminB1lads, т.е. на участке репрессированного гетерохроматима.|
+|4|Weak transcribed|Наиболее выражен для H3K36me3, в меньшей мере для H3K79me2 и H3K4me1; чаще всего располагается на RefSeqTES, RefSeqGene, реже на RefSeqExon; попадает на интрон или экзон.|
+|5|Weak transcribed|Наиболее выражен для H3K79me2, в меньшей мере для H3K36me3 и H3K4me1; чаще всего располагается на RefSeqGene; попадает на интрон.|
+|6|Weak enhancer|Наиболее выражен для H3K79me2 и H3K4me1; чаще всего располагается на RefSeqGene, реже на RefSeqTES; попадает на интрон.|
+|7|Repressed|Наиболее выражен для H3K4me1 и H2A.Z; не попадает на ген; локализация слабая, преимущественно на laminB1lads.|
+|8|Strong enhancer|Наиболее выражен для H3K4me1 и H2A.Z; чаще всего располагается на RefSeqTES и RefSeqTSS2Kb, чуть реже на laminB1lads; попадает на интрон или экзон.|
+|9|Active promoter|Ярко выражен для большинства меток; чаще всего располагается на CpGIslands, RefSeqExon, RefSeqTES, RefSeqTSS2Kb, реже на  RefSeqTES; попадает на интрон или экзон, не попадает на ген.|
+|10|Active promoter|Ярко выражен для большинства меток; чаще всего располагается на RefSeqTES, RefSeqTSS2Kb, реже на CpGIslands, RefSeqExon, RefSeqTES; попадает на интрон или экзон, не попадает на ген.|
+
 ![image6](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/9dcd7494e90baacff3fc3f8d4f8b91dbf90a3027/raw/hgt_genome_13259_d4fc00.jpg)
 |-|
 ![image7](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/9dcd7494e90baacff3fc3f8d4f8b91dbf90a3027/raw/hgt_genome_32054_d50210.jpg)
