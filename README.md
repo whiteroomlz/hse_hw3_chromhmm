@@ -14,3 +14,9 @@
 |A549|[wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep1.bam)|H3K79me2|[ControlDex100nmAlnRep1.bam](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549ControlDex100nmAlnRep1.bam)|
 |A549|[wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam)|H3K9ac|[ControlEtoh02AlnRep1.bam](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549ControlEtoh02AlnRep1.bam)|
 |A549|[wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam)|H3K9me3|[ControlEtoh02AlnRep1.bam](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneA549ControlEtoh02AlnRep1.bam)|
+## ChromHMM
+![image1]()
+![image2]()
+![image3]()
+![image4]()
+![image5]()
