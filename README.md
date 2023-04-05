@@ -18,9 +18,7 @@
 ### Ссылка на *_dense.bed: https://drive.google.com/file/d/1w6eQZn1DaQe031Se-ZTdmSinozNn-NB6/view?usp=share_link
 |**Emission**|**Fold Enrichment**|**Transition**|
 |-|-|-|
-![image1](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/emissions_10.png)
-![image2](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_overlap.png)
-![image3](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/transitions_10.png)
+![image1](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/emissions_10.png) | ![image2](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_overlap.png) | ![image3](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/transitions_10.png)
 
 ![image4](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_RefSeqTES_neighborhood.png)
 ![image5](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_RefSeqTSS_neighborhood.png)
