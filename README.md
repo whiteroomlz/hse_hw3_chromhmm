@@ -41,3 +41,6 @@
 |-|
 ![image7](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/9dcd7494e90baacff3fc3f8d4f8b91dbf90a3027/raw/hgt_genome_32054_d50210.jpg)
 
+# Бонус
+Я так и не понял, почему у меня пропали цвета.
+![image8](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/d230cfe68492579000877a16384f521cbad08ff0/raw/hgt_genome_16c2c_db2e90.jpg)
