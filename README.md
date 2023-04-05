@@ -23,7 +23,6 @@
 ![image4](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_RefSeqTES_neighborhood.png)
 ![image5](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/8ac4f101842bd7aea5f64338384776c1366a64d5/data/A549_10_RefSeqTSS_neighborhood.png)
 ## UCSC GenomeBrowser
-Nikita Borodin, [05.04.2023 19:13]
 ### Таблица
 |Состояние|Название|Анализ|
 |-|-|-|
@@ -41,3 +40,4 @@ Nikita Borodin, [05.04.2023 19:13]
 ![image6](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/9dcd7494e90baacff3fc3f8d4f8b91dbf90a3027/raw/hgt_genome_13259_d4fc00.jpg)
 |-|
 ![image7](https://github.com/whiteroomlz/hse_hw3_chromhmm/blob/9dcd7494e90baacff3fc3f8d4f8b91dbf90a3027/raw/hgt_genome_32054_d50210.jpg)
+
